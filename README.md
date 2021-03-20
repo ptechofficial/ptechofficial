@@ -1,7 +1,7 @@
 ### Hi there, I'm Prakarsh 👋
 
 - 🔭 I'm a student.
-
+<br />
 
 ### Spotify Playing 🎧
 
@@ -30,7 +30,6 @@
 
 <br />
 <br />
-
 
 ## GitHub Stats <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ptechofficial&&show_icons=true&title_color=9bf6ff&icon_color=f5b700&text_color=bdb2ff&bg_color=011627" />
