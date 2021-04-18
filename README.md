@@ -1,5 +1,5 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Prakarsh Gupta](https://github.com/kothariji) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/dhruv%20github%20banner.png)
+![GitHub Logo](https://github.com/ptechofficial/ptechofficial.github.io/blob/main/assets/Prakarsh%20Gupta%20cover%20image.png)
 
 👨‍🎓I am Prakarsh Gupta, currently embarking on my engineering journey from NIT Kurukshetra, Haryana. <br />
 💻I am a **front-end web developer** as well as an 📱**UI / UX** enthusiast.<br />
