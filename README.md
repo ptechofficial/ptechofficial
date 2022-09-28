@@ -1,4 +1,4 @@
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Prakarsh Gupta](https://github.com/ptechofficial) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Prakarsh Gupta](https://github.com/ptechofficial) <img src="https://media-exp1.licdn.com/dms/image/C5616AQEgDl4CoZxyrg/profile-displaybackgroundimage-shrink_350_1400/0/1622383811677?e=1669852800&v=beta&t=cWJEgL2fMlvwDAD6AYb1cwEVohdCkx9AptLBnzeuRCg" width="30px">
 ![GitHub Logo](https://github.com/ptechofficial/ptechofficial.github.io/blob/main/assets/GitHub%20Profile.png?raw=true)
 
 👨‍🎓I am Prakarsh Gupta, currently embarking on my engineering journey from NIT Kurukshetra, Haryana. <br />
