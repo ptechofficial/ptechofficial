@@ -142,10 +142,10 @@
 
 
 
-## GitHub Stats <br />
+<!-- ## GitHub Stats <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ptechofficial&&show_icons=true&title_color=ff9f1c&icon_color=ffbf69&text_color=37323e&bg_color=ffffff" />
 
- 
+  -->
  ---
 
 ## Connect with me  
